@@ -1,7 +1,8 @@
 {
     "keyboard_name": "YR6095",
     "processor": "STM32F103",
-    "bootloader": "stm32duino",
+    "bootloader": "uf2boot",
+    "board": "STM32_F103_STM32DUINO",
     "usb": {
         "pid": "0xAA0C",
         "device_version": "1.0.0"
